@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Viet Nguyen</b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR3d3dnaWs0ZnoybWpkbmo5dmVsdjJoMjBnYnYwaTExdGZhMWtzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H3UaAR5GEDUIsJClVV/giphy.gif" width="80"></h1>
 
 ### About Me
-<img align="right" alt="Coding" width="400" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwxbXoyeXptZG44emMzZWE0OHl2cmszY2w4aTljZ2s1cHNjOXJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiC8JsLnpIDq8/giphy.gif" >
+<img align="right" alt="Coding" width="350" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwxbXoyeXptZG44emMzZWE0OHl2cmszY2w4aTljZ2s1cHNjOXJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiC8JsLnpIDq8/giphy.gif" >
 
 - 🎓 **Mathematics** & **Data Analytics** student at **Denison University**
 - 💼 Data Science Intern at **Park National Bank**

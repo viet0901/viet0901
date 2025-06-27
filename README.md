@@ -3,7 +3,7 @@
 ### About Me
 
 - 🎓 **Mathematics** & **Data Analytics** student at **Denison University**
-- Data Science Intern at **Park National Bank**
+- 💼 Data Science Intern at **Park National Bank**
 - 🍳 Culinary nerd — from seasoning to Flambé
 
 ### Side Quests:

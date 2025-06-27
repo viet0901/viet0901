@@ -1,22 +1,20 @@
-<h1 align="center"><b>Hi, I'm Viet Nguyen</b> 🦆</h1>
+<h1 align="center"><b>Hi , I'm Viet Nguyen</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms4ODkxMGlwNXV0aDUwdW9qMHRpNnpiODY4M3RxM3d5eHB5eGlpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pcUHgRNcUL3H8qmWEl/giphy.gif" width="80"></h1>
 
-Reach out to me at **[minhviet0901@gmail.com](mailto:minhviet0901@gmail.com)** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/viet-nguyen90104/)
+### About Me
+
+- 🎓 **Mathematics** & **Data Analytics** student at **Denison University**
+- Data Science Intern at **Park National Bank**
+- 🍳 Culinary nerd — from seasoning to Flambé
+
+### Side Quests:
+
+- Getting my SQL Hackerrank and Tableau certificate
+- Building a Interactive Data Project
+- Learning about Casual Inference
+
+Reach out to me at <a href="mailto:minhviet0901@gmail.com">minhviet0901@gmail.com</a> or <a href="https://www.linkedin.com/in/viet-nguyen90104/">LinkedIn</a>
 
 ---
-
-### About Me 🧑‍💻
-
-- 🎓 **Rising Junior** at **Denison University**  
-- 🎯 **Major**: Mathematics & Data Analytics | **Minor**: Computer Science  
-- 🚀 Passionate about **data science**, **predictive modeling**, and **AI** applications for **business growth** and **sustainability**  
-- 🦆 Fun fact: My duck emoji 🦆 is my signature—keep an eye out for it! I once helped create a viral TikTok video that gained 300K+ views!
-
----
-
-### Key Skills 🛠️
-- **Data Analysis & Visualization**: R, Python, SQL, Tableau 
-- **Modeling Techniques**: Regression, Predictive Modeling, Time Series, Hierarchical Clustering  
-- **Software & Tools**: Excel, RStudio, Jupyter Notebook, VSCode
-
-
-🦆 **Signature Duck** 🦆
+<div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNicjhyMmpkeGNxb2VvcjRubWd4aWczeDFhbTFjZG4yaTc4c2kwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BrkuIkfzokEWJ7tSM5/giphy.gif" width="100%" height="100%" style="border: 20px solid #000000; border-radius: 10px;" />
+</div>

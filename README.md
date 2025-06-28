@@ -3,7 +3,7 @@
 ### About Me
 <img align="right" alt="Coding" width="350" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwxbXoyeXptZG44emMzZWE0OHl2cmszY2w4aTljZ2s1cHNjOXJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiC8JsLnpIDq8/giphy.gif" >
 
-- 🎓 **Mathematics** & **Data Analytics** student at **Denison University**
+- 🎓 **Mathematics** & **Data Analytics** student at Denison University
 - 💼 Data Science Intern at **Park National Bank**
 - 🍳 Culinary nerd — from seasoning to Flambé
 

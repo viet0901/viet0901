@@ -20,6 +20,6 @@ Reach out to me at <a href="mailto:minhviet0901@gmail.com">minhviet0901@gmail.co
 <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwxbXoyeXptZG44emMzZWE0OHl2cmszY2w4aTljZ2s1cHNjOXJ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiC8JsLnpIDq8/giphy.gif" 
      width="100%" 
-     style="height: 520px; border: 20px solid #000000; border-radius: 10px;" />
+     style="height: 400px; border: 20px solid #000000; border-radius: 10px;" />
 </div>
 

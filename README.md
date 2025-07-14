@@ -13,7 +13,7 @@
 - Learning about Casual Inference
 
 ### Portfolio
-- View my portfolio <a href="[https://mewing-elderberry-659.notion.site/Viet-Nguyen-1d6a7733f6e880efb430fa7a3725524c](https://vietnguyen-portfolio.super.site/)">here</a>
+- View my portfolio <a href="https://vietnguyen-portfolio.super.site/">here</a>
 
 Reach out to me at <a href="mailto:minhviet0901@gmail.com">minhviet0901@gmail.com</a> or <a href="https://www.linkedin.com/in/viet-nguyen90104/">LinkedIn</a>
 

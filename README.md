@@ -3,17 +3,13 @@
 ### About Me
 
 - 🎓 **Mathematics** & **Data Analytics** student at Denison University
-- 💼 Data Science Intern at **Park National Bank**
+- 💼 Data Engineering Intern at **VIUM Capital**
 - 🍳 Culinary nerd — from seasoning to Flambé
 
 ### Side Quests
 
-- Getting my SQL Hackerrank and Tableau certificate
-- Building a Interactive Data Project
-- Learning about Casual Inference
-
-### Portfolio
-- View my portfolio <a href="https://vietnguyen-portfolio.super.site/">here</a>
+- Finding the best Crossaint in the US
+- Learning about Data
 
 Reach out to me at <a href="mailto:minhviet0901@gmail.com">minhviet0901@gmail.com</a> or <a href="https://www.linkedin.com/in/viet-nguyen90104/">LinkedIn</a>
 

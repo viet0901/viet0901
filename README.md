@@ -3,7 +3,7 @@
 ### About Me
 
 - 🎓 **Mathematics** & **Data Analytics** student at Denison University
-- 💼 Data Engineering Intern at **VIUM Capital**
+- 💼 AI Data Engineering Intern at **VIUM Capital**
 - 🍳 Culinary nerd — from seasoning to Flambé
 
 ### Side Quests
